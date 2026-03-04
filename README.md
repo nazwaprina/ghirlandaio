@@ -40,14 +40,15 @@ repot  : [telegram](https://t.me/yuroshub)
 # penilian
 
 ## konseptual
-| no       | tipe        | jumlah  | jenis    | 
-| ---------| ------------ | ------- | -------- |
-| 1        | makalah      | 1       | kelompok |
-| 2        | source code  | 1       | kelompol |
-| 3        | source code  | 9       | pribadi  |
-| 3        | source docs  | 9       | pribadi  |
-
-
+| no       | tipe                                            | perstase  |  
+| ---------| ------------------------------------------------- | --------- |
+| 1        |  originalitas ide                                 | 5%        |
+| 2        |  penguasan materi saat pelaksanaan presenstasi    | 10&       |
+| 3        |  kerapian dalam penyusunan report akhir           | 5%        |
+| 4        |  intensitas pengerjaan pada github repo           | 15%       |
+| 5        | instensitas dan kualitas commit pada github repo  | 15%       |
+| 6        |  perencanaan penugasan pada github project        | 15%       |
+| 7        |  pebuatan penugasan pada github project           | 15%       |
 - originalitas ide
 - pemahanan terhadap konsep
 - penguasan materi saat pelaksanaan presenstasi
