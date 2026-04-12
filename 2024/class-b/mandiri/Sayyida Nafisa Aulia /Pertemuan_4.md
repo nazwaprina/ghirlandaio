@@ -21,5 +21,9 @@ DARPA telah menghasilkan berbagai inovasi militer yang bersifat revolusioner, se
 
 Di samping itu, kontribusi DARPA juga memberikan dampak besar bagi kehidupan masyarakat sipil. Beberapa di antaranya adalah perkembangan internet modern, teknologi pengenalan suara otomatis dan penerjemahan bahasa, perangkat GPS berukuran kecil yang dapat digunakan secara luas, serta dukungan awal terhadap pengembangan teknologi vaksin mRNA.
 
-Keberhasilan tersebut tidak terlepas dari upaya DARPA dalam membangun ekosistem inovasi yang melibatkan kerja sama antara akademisi, industri, dan pemerintah. Dengan menciptakan lingkungan yang kondusif, DARPA mampu mendorong kolaborasi dari berbagai pihak sehingga inovasi dapat berkembang dan diwujudkan dengan lebih cepat.
+# **KESIMPULAN**
+
+Berdasarkan pembahasan, dapat disimpulkan bahwa ARPA (Advanced Research Projects Agency) atau yang sekarang ini lebih dikenal dengan DARPA (Defense Advanced Reasearch Projects Agency) merupakan lembaga penelitian di bawah naungan Departemen Pertahanan Amerika Serikat yang memiliki peran besar dalam mendorong perkembangan teknologi modern. Lembaga ini dibentuk sebagai respons atas peristiwa Peluncuran Sputnik 1 Uni Soviet.
+
+Melalui berbagai program penelitian yang berfokus pada pembuktian konsep hingga tahap implementasi, DARPA berhasil menghasilkan inovasi-inovasi yang tidak hanya berdampak pada bidang militer, tetapi juga memberikan manfaat luas bagi kehidupan masyarakat sipil. Berbagai teknologi seperti internet, GPS, dan sistem pengenalan suara merupakan bukti nyata kontribusi DARPA dalam kehidupan sehari-hari.
 
