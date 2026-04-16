@@ -12,10 +12,19 @@ Pada bagian *"Acknowledgments"* Ranganathan menjelaskan bahwa ide dari penyusuna
 3. Perpustakaan berorientasi pada koleksi, bukan kepada pemustaka
 4. Sistem layanan pemustaka tidak berjalan secara efektif
 
-Ranganathan menjelaskan jika kondisi seperti ini terus terjadi, maka akan dapat menghentikan fungsi sebenarnya dari perpustakaan terutama terkait fungsi pendidikan/edukasi. Perpustakaan yang seharusnya menjadi ruang terbuka bagi pembaca untuk menemukan pengetahuan/informasi baru, sebaliknya justru malah menjadi ruang tertutup dan sulit untuk diakses oleh pembaca di era tersebut. Dari sinilah lahir prinsiprinsiprinsip dasar mengenai 5 Hukum Perpustakaan sebagai fondasi yang bersifat universal mengenai dasar pengelolaan perpustakaan.sehingga dapat direplika dan dikem
+Ranganathan menjelaskan jika kondisi seperti ini terus terjadi, maka akan dapat menghentikan fungsi sebenarnya dari perpustakaan terutama terkait fungsi pendidikan/edukasi. Perpustakaan yang seharusnya menjadi ruang terbuka bagi pembaca untuk menemukan pengetahuan/informasi baru, sebaliknya justru malah menjadi ruang tertutup karena koleksinya sulit diakses oleh pembaca di era tersebut. Dari sinilah lahir prinsip dasar mengenai 5 Hukum Perpustakaan sebagai fondasi yang sifatnya universal terkait dasar pengelolaan perpustakaan. Sehingga kemudian 5 Hukum ini dapat diimplementasikan, dan dikembangkan oleh perpustakaan di penjuru dunia.
 
 ### 5 Hukum Perpustakaan
+#### Hukum 1: *"Books Are For Use"*
+Artinya: Buku-buku diciptakan untuk digunakan. Hukum pertama ini mengkritik penggunaan buku pada era tersebut yang masih sangat terbatas dan sifatnya masih tertutup. Menurutnya hal ini dapat menghentikan fungsi buku yang sebenarnya. Pelestarian buku bukan hanya dengan disimpan, melainkan digunakan sebagaimana fungsi edukasinya. Pelestarian juga dapat dilakukan dengan cara terus mengembangkan apa yang tertulis di dalam buku melalui pemikiran para pembacanya.
 
+#### Hukum 2:
+
+#### Hukum 3:
+
+#### Hukum 4:
+
+#### Hukum 5:
 
 ## Kesimpulan
 
