@@ -35,3 +35,8 @@ Selain pendekatan teknis, peningkatan kesadaran keamanan (*security awareness*) 
 
 ---
 
+## KESIMPULAN
+
+Berdasarkan pembahasan di atas, dapat disimpulkan bahwa vektor serangan (*attack vector*) merupakan jalur atau metode yang dimanfaatkan oleh pelaku ancaman untuk mengakses, menyusup, atau merusak sistem informasi digital secara tidak sah, dengan jenis yang paling umum dalam konteks perpustakaan dan arsip digital meliputi *phishing*, *ransomware*, kebocoran data, serangan DDoS, serta eksploitasi kata sandi lemah. Untuk mengantisipasi ancaman tersebut, diperlukan penerapan prinsip dasar keamanan siber CIA yang diimplementasikan secara holistik melalui integrasi solusi teknis seperti enkripsi dan *backup* rutin, penguatan sumber daya manusia melalui pelatihan kesadaran keamanan (*security awareness*) dan autentikasi multifaktor (MFA), serta kebijakan kelembagaan yang jelas seperti SOP keamanan dan audit berkala. Pada akhirnya, keamanan siber dalam pengelolaan perpustakaan dan arsip digital bukan sekadar tanggung jawab teknis, melainkan komitmen kolektif yang mengintegrasikan prinsip kelima klasik Ranganathan, bahwa perpustakaan adalah organisme yang terus berkembang. Dengan etika siber kontemporer, layanan informasi tetap relevan, terpercaya, aman, dan bermanfaat bagi masyarakat di tengah dinamika transformasi digital di Indonesia.
+
+---
