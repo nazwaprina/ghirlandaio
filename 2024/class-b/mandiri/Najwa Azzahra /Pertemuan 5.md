@@ -1,1 +1,4 @@
 # PRINSIP CONFIDENTIALITY DITERAPKAN DALAM PENGELOLAAN DATA PERPUSTAKAAN
+Resume hasil presentasi kelompok 4
+# Pendahuluan
+Dalam era digital yang saling terhubung, keamanan siber menjadi isu global yang penting. Salah satu fondasi utama dari keamanan siber adalah perlindungan data, yang sering dirangkum dalam apa yang dikenal sebagai "segitiga CIA":_Confidentiality_(Kerahasiaan), _Integrity_(Integritas), _Availability_(Ketersediaan). Prinsip _Confidentiality_ bertujuan untuk "mencegah perolehan informasi yang tidak sah". Dalam konteks perpustakaan, prinsip ini sangat relevan karena perpustakaan mengelola data pribadi pengguna, seperti riwayat peminjaman buku, preferensi pencarian, dan informasi akun. Penerapan prinsip  kerahasiaan yang baik adalah bentuk penghormatan terhadap privasi dan otonomi pengguna perpustakaan.
