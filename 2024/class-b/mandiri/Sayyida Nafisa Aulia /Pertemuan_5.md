@@ -1,1 +1,6 @@
 # **Relevansi 5 Hukum Perpustakaan di Era Digital**
+*Tugas Resume Pertemuan 5 - Materi Kelompok 4*
+
+# **PENDAHULUAN**
+
+Lima Hukum Perpustakaan yang dikemukakan oleh S. R. Ranganathan merupakan prinsip dasar dalam pengelolaan perpustakaan yang menekankan pentingnya akses informasi serta pemenuhan kebutuhan pemustakanya. Kelima hukum tersebut tidak hanya berfungsi sebagai pedoman teknis, tetapi juga berfungsi sebagai landasan filosofis yang mengarahkan bagaimana perpustakaan seharusnya berperan dalam masyarakat. Seiring dengan berkembangnya teknologi informasi dan komunikasi secara pesat, perpustakaan mengalami transformasi yang signifikan, dari yang semula berbasis koleksi fisik menjadi perpustakaan digital yang menyediakan berbagai sumber informasi secara digital. Perubahan ini turut memengaruhi cara pemustaka dalam mencari, mengakses, dan memanfaatkan informasi. Oleh karena itu, muncul pertanyaan mengenai apakah Lima Hukum Perpustakaan dari Ranganathan masih dapat diterapkan dalam konteks perpustakaan digital saat ini. Pertanyaan ini sangat penting untuk dikaji, mengingat peran perpustakaan yang terus berkembang harus tetap berlandaskan pada prinsip-prinsip yang relevan dengan kebutuhan zaman.
