@@ -11,3 +11,13 @@ Perkembangan teknologi memberikan efek terhadap bagaimana sebuah informasi dikel
 Dalam penerapan keamanan siber, etika siber merupakan salah satu upaya preventif yang dapat dilakukan. Berbeda dengan keamanan siber yang secara keseluruhan lebih dipahami sebagai sebuah sistem keamanan, etika siber melihat lebih dekat kepada sisi manusia atau pengguna. Etika siber sendiri memiliki arti sebagai seperangkat aturan, norma, dan juga prinsip moral dalam berperilaku di dunia digital. Sebagai sebuah aturan, etika siber memastikan bahwa nilai-nilai etika tidak menghilang dalam konteks dunia digital. 
 
 Dalam Pengelolaan informasi digital, etika siber diterapkan dengan tujuan pelayanan yang diberikan tetaplah sesuai dengan standar dan prinsip sehingga pengguna tidak merasa ada hak nya yang tidak terpenuhi. Keamanan pengguna dan informasi itu sendiri turut menjadi poin yang harus diperhatikan. Dengan hadirnya etika siber, pengguna dapat memahami cara internet bekerja dan bertanggung jawab dalam penggunaan teknologi itu sendiri. 
+
+## Kesimpulan 
+
+Kemajuan teknologi terutama dalam bidang pengelolaan informasi bukanlah sebuah alasan untuk menggunakan teknologi tersebut dengan sembarangan. Penerapan etika siber merupakan sebuah langkah yang dapat dilakukan untuk memastikan keamanan dan kenyamanan bagi pengguna maupun lembaga pengelola informasi. 
+
+## Daftar Pustaka
+
+Markus Christen, Gordijn, B., & Loi, M. (Eds.). (2020). The ethics of cybersecurity. Cham: Springer.
+
+Makalah Kelompok 4.  Evolusi 5 Hukum Perpustakaan, Cyberethics, dan Keamanan Cyber dalam Pengelolaan Perpustakaan serta Arsip Digital.
