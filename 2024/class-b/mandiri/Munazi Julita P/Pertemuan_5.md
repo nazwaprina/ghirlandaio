@@ -6,11 +6,10 @@ Perkembangan dalam teknologi informasi memberikan pengaruh besar bagi perpustaka
 
 ## Pembahasan
 ### 1. Biaya Infrastruktur dan Pemeliharaan yang Tinggi
-Membangun perpustakaan digital memerlukan kesiapan
-infrastruktur yang memadai, mulai dari perangkat keras, perangkat lunak, sampai kapasitas server yang yang cukup besar. Proses pengadaan dan pemeliharaan komponen infrastruktur ini lah yang membutuhkan biaya yang tidak sedikit. Kondisi ini lah yang menjadi tantangan bagi perpustakaan, karena tidak semua perpustakaan memiliki anggaran yang cukup.
+Membangun perpustakaan digital memerlukan kesiapan infrastruktur yang memadai, mulai dari perangkat keras, perangkat lunak, sampai kapasitas server yang yang cukup besar. Proses pengadaan dan pemeliharaan komponen infrastruktur ini lah yang membutuhkan biaya yang tidak sedikit. Kondisi ini lah yang menjadi tantangan bagi perpustakaan, karena tidak semua perpustakaan memiliki anggaran yang cukup.
 
 ### 2. Ketergantungan pada Infrastruktur
-Perpustakaan digital sangat bergantung pada ketersediaan dan kestabilan infrastruktur, seperti jaringan internet dan listrik. Apabila terjadi gangguan pada salah satunya, maka akses terhadap layanan dapat terhenti sepenuhnya, sehingga menghambat aktivitas pengguna dalam memperoleh informasi.
+Perpustakaan digital sangat bergantung pada ketersediaan dan kestabilan infrastruktur, seperti jaringan internet dan listrik. Apabila terjadi gangguan pada salah satunya, maka akses terhadap layanan dapat terhenti sepenuhnya, sehingga menghambat aktivitas pemustaka dalam memperoleh informasi.
 
 ### 3. Kerentanan Terhadap Kejahatan Siber (*Cybercrime*)
 Sistem perpustakaan digital yang terhubung melalui jaringan komputer memiliki risiko terhadap berbagai ancaman keamanan siber, seperti peretasan, malware, dan virus. Ancaman ini tidak hanya mengincar koleksi digital, tetapi juga data penting lainnya, termasuk data keamanan sistem serta informasi pribadi pemustaka dan pustakawan.
