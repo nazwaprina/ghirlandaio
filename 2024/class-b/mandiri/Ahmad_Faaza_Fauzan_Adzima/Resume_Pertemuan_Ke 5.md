@@ -11,3 +11,7 @@ Penerapan cyberethics dalam perpustakaan digital dapat dilakukan dengan menjaga 
 Perpustakaan juga memiliki peran dalam memberikan pemahaman kepada pengguna mengenai etika penggunaan informasi, seperti pentingnya mencantumkan sumber dan menghindari plagiarisme. Untuk mendukung hal tersebut, perpustakaan dapat menyediakan panduan atau edukasi literasi digital. Selain itu, sistem keamanan perpustakaan perlu terus ditingkatkan untuk mencegah ancaman siber yang dapat merugikan pengguna maupun pengelola.
 
 Di samping itu, penerapan cyberethics juga dapat diperkuat melalui transparansi dalam pengelolaan data dan layanan. Perpustakaan digital perlu menjelaskan secara terbuka bagaimana data pengguna dikelola agar menumbuhkan kepercayaan. Evaluasi dan pengawasan secara berkala juga penting untuk memastikan sistem dan kebijakan tetap sesuai dengan perkembangan teknologi.
+
+# Kesimpulan
+
+Penerapan cyberethics dalam perpustakaan digital sangat penting untuk menjaga keamanan dan kenyamanan dalam penggunaan informasi. Upaya tersebut dapat dilakukan melalui perlindungan data, pengaturan akses, edukasi pengguna, peningkatan keamanan sistem, serta transparansi dalam pengelolaan layanan.
